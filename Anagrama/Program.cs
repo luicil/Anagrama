@@ -19,7 +19,7 @@ namespace isAnagram
             }
             else
             {
-                Console.WriteLine("As palavras " + p1 + " e " + p2 + " não são anagramas !");
+                Console.WriteLine("A palavras " + p1 + " e " + p2 + " não são anagramas !");
             }
         }
     }
